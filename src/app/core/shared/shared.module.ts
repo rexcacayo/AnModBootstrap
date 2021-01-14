@@ -7,7 +7,7 @@ import { NotFoundComponent } from './components/not-found/not-found.component';
 @NgModule({
     imports:[
         HttpClientModule,
-        RouterModule,
+        RouterModule
         
     ],
     declarations:[
