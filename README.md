@@ -2,7 +2,7 @@
 
 Proyecto base para utilizar de platilla con la hoja de estilo Bootstrap.
 
-## Development server
+## Modo desarrollo
 
 Run ng serve para servidor local
 
@@ -10,11 +10,15 @@ Run ng serve para servidor local
 
 Run npm install --Instalar la dependencias npm
 
-## Build
+## Actualizar para la ultima version de Angular cli
+
+Run npm update --Actualizar dependencias de proyecto npm
+
+## Desplegar
 
 Run ng build --Para compilar y entregar el proyecto final
 
-## VERSION
+## Version
 
 Angular 11
 NPM 14.4.0
